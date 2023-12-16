@@ -1,10 +1,12 @@
 /storage/*
+storage/
 
 .env
 
 /vendor/
 
 /bootstrap/
+bootstrap/
 /public/storage/
 /public/hot/
 /storage/*.key

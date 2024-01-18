@@ -10,7 +10,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="/trading.png" alt="New York" width="1200" height="700">
+                <img src="/drazhar_khs.png" alt="New York" width="1200" height="700">
                 <div class="carousel-caption">
                     <h3>Best staff</h3>
                     <p>All the staff is well qualified.</p>
@@ -18,7 +18,7 @@
             </div>
 
             <div class="item">
-                <img src="trading.png" alt="Chicago" width="1200" height="700">
+                <img src="drazhar_khs.png" alt="Chicago" width="1200" height="700">
                 <div class="carousel-caption">
                     <h3>Technology</h3>
                     <p>We have modren updated nano-technology.</p>
@@ -26,7 +26,7 @@
             </div>
 
             <div class="item">
-                <img src="trading.png" alt="Los Angeles" width="1200" height="700">
+                <img src="drazhar_khs.png" alt="Los Angeles" width="1200" height="700">
                 <div class="carousel-caption">
                     <h3>Medicenes</h3>
                     <p>We have a large stock of medicence!</p>

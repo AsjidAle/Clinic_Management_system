@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\patients;
+use App\Http\Controllers\treatment;
+use App\Http\Controllers\patientsQueue;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,6 +17,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+
     return view('index');
 });
 
@@ -23,4 +26,7 @@ Route::get('/edit/{id}', [patients::class,'edit']);
 Route::get('/delete/{id}', [patients::class,'destroy']);
 Route::get('/getappointment', [patients::class, 'store']);
 Route::get('/addpatient', [patients::class, 'store']);
+Route::get('/doctortreatment', [treatment::class,'showForm'])->name('show.form');
+Route::post('/doctortreatment', [treatment::class,'submitForm'])->name('submit.doctortreatment');
+Route::get('/patientsqueue', [patientsQueue::class,'index']);
 

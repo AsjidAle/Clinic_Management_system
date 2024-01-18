@@ -1,43 +1,20 @@
 <!-- Container (The Band Section) -->
 <div id="team" class="container text-center">
-    <h3>THE Team</h3>
-    <p><em>We love to serve!</em></p>
-    <p><a href="/"><span class="text-primary">Hospital</span></a> is serving the people for more than
-        36 years with its expert diverse staff.We are providing many medical solutions like from ENT to
-        athopedics.</p>
+    <h3>Klinik Hidup Sihat</h3>
+    <p><em>Since 1995</em></p>
+    <p>Klinik Hidup Sihat is serving the people for more than
+        28 years with its expert doctor. We are providing many medical solutions at a very affordable price.</p>
     <br>
     <div class="row">
         <div class="col-sm-4">
-            <p class="text-center"><strong>Norma</strong></p><br>
+            <p class="text-center"><strong>Dr Md Azhar Tahir</strong></p><br>
             <a href="#demo" data-toggle="collapse">
-                <img src="/femaled.avif" class="img-circle person" alt="Norma" width="100" height="255">
+                <img src="/gambar_doktor.jpg" class="img-circle person" alt="Dr Azhar" width="100" height="255">
             </a>
             <div id="demo" class="collapse">
-                <p>Dentist</p>
-                <p>DMD</p>
-                <p>Practicing since 1988</p>
-            </div>
-        </div>
-        <div class="col-sm-4">
-            <p class="text-center"><strong>Christane</strong></p><br>
-            <a href="#demo2" data-toggle="collapse">
-                <img src="/female.avif" class="img-circle person" alt="Christane" width="100" height="255">
-            </a>
-            <div id="demo2" class="collapse">
-                <p>Physiotherapist</p>
-                <p>FCPS</p>
-                <p>Practicing since 1988</p>
-            </div>
-        </div>
-        <div class="col-sm-4">
-            <p class="text-center"><strong>David</strong></p><br>
-            <a href="#demo3" data-toggle="collapse">
-                <img src="/male.jpg" class="img-circle person" alt="David" width="100" height="100">
-            </a>
-            <div id="demo3" class="collapse">
-                <p>Arthopedics</p>
-                <p>MBBS, RDPs</p>
-                <p>Practicing since 2005</p>
+                <p>Doctor</p>
+                <p>MD. UKM</p>
+                <p>Practicing since 1985</p>
             </div>
         </div>
     </div>
@@ -45,7 +22,7 @@
 
 <!-- Container (TOUR Section) -->
 <div id="about" class="bg-1">
-    <div class="container">
+    <!-- <div class="container">
         <h3 class="text-center">About</h3>
         <p class="text-center"><a href="/"><span class="text-primary">Hospital</span></a> is providing
             medical problem solutions for more than 36 years free of cost. If you have any medical issue get
@@ -74,14 +51,14 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Modal -->
     <div class="modal fade" id="myModal" role="dialog">
         <div class="modal-dialog">
 
             <!-- Modal content-->
-            <div class="modal-content">
+            <!-- <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal">×</button>
                     <h4><span class="glyphicon glyphicon-lock"></span> Get Personalized Appointment</h4>
@@ -111,7 +88,7 @@
                     </button>
                     <p>Need <a href="#">help?</a></p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
@@ -124,9 +101,9 @@
     <div class="row">
         <div class="col-md-4">
             <p>Drop a note.</p>
-            <p><span class="glyphicon glyphicon-map-marker"></span>Chicago, US</p>
-            <p><span class="glyphicon glyphicon-phone"></span>Phone: +00 1515151515</p>
-            <p><span class="glyphicon glyphicon-envelope"></span>Email: mail@mail.com</p>
+            <p><span class="glyphicon glyphicon-map-marker"></span>Klinik Hidup Sihat, Taman Sri Jambu, Kajang</p>
+            <p><span class="glyphicon glyphicon-phone"></span>Phone: 03-8740 0678</p>
+            <p><span class="glyphicon glyphicon-envelope"></span>Email: - </p>
         </div>
         <div class="col-md-8">
             <form action="" method="get">
@@ -149,7 +126,7 @@
         </div>
     </div>
     <br>
-    <h3 class="text-center">From The Blog</h3>
+    <!-- <h3 class="text-center">From The Blog</h3>
     <ul class="nav nav-tabs">
         <li class="active"><a data-toggle="tab" href="#home">Mike</a></li>
         <li><a data-toggle="tab" href="#menu1">Chandler</a></li>
@@ -169,7 +146,7 @@
             <h2>Peter Griffin, Bass player</h2>
             <p>I mean, sometimes I enjoy the show, but other times I enjoy other things.</p>
         </div>
-    </div>
+    </div> -->
 </div>
 
 <!-- Image of location/map -->

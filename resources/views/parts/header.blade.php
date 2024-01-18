@@ -31,11 +31,11 @@
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="/">HOME</a></li>
-                    <li><a href="#team">Team</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">CONTACT</a></li>
-                    <li class="dropdown">
+                    <li><a href="/doctortreatment">Doctor Treatment</a></li>
+                    <li><a href="#team">Queues Overview</a></li>
+                    <li><a href="#about">Medicines Dispensary</a></li>
+                    <li><a href="#contact">Patients Registration</a></li>
+                    <!-- <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu">
@@ -43,7 +43,7 @@
                             <li><a href="#">Staff</a></li>
                             <li><a href="#">Donations</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                     <li><a href="/patients">Patients</a></li>
                 </ul>
             </div>
